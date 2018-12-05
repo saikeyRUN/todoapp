@@ -1,0 +1,3 @@
+Django.VERSION==1.10.5
+MySQL
+Python3
